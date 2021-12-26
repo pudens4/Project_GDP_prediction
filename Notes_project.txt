@@ -1,0 +1,12 @@
+Net generation for all sectors monthly		
+https://www.eia.gov/electricity/data/browser/#/topic/0?agg=2	0	1&fuel=vtvv&geo=vvvvvvvvvvvvo&sec=g&freq=M&start=200101&end=202110&ctype=linechart&ltype=pin&rtype=s&maptype=0&rse=0&pin=
+16:42:37 GMT-0500 (EST)		
+Source: U.S. Energy Information Administration		
+(Monthly total fuel)
+
+
+"For October and November 2017, Puerto Rico Electric Power Authority supplied their data in the aggregate and EIA estimated the sector breakdowns.
+The sector, Other, was collected from 1990-2002 and the Transportation sector has been collected since 2003.
+Customer counts started to be published in 2007.
+EIA started collecting data from Puerto Rico in June 2014."
+(sales revenue)
