@@ -2,7 +2,8 @@
 
 ## Overview 
 This project consist of creating a model to predict the Gross Domestic Product of a region based on the amount of 
-electricity used per quarter. 
+electricity used. 
+Prediction can be based possibly on a quarterly basis, yearly basis
 
 The steps to create the model
 - gather electricity data
@@ -12,6 +13,9 @@ The steps to create the model
 - test accuracy
 - use Tableau, Javascript and HTML to visualize the findings
 
+## Challenges
+- messy csv file (NAN, notes, data not collected, missing years for comparison) 
+- 
 ## Results
 
 ## Summary
