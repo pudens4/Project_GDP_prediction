@@ -12,6 +12,7 @@ The steps to create the model
 - create a model looking for correlation/ linear regression 
 - test accuracy
 - use Tableau, Javascript and HTML to visualize the findings
+- html(with drop down menu that shows correlation if there is between electricity used and GDP)
 
 ## Challenges
 - messy csv file (NAN, notes, data not collected, missing years for comparison) 
