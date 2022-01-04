@@ -16,6 +16,7 @@ The steps to create the model
 
 ## Challenges
 - messy csv file (NAN, notes, data not collected, missing years for comparison) 
+- multiIndex (new concept)
 - 
 ## Results
 
