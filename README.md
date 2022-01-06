@@ -2,7 +2,12 @@
 
 ## Overview 
 This project consist of creating a model to predict the Gross Domestic Product of a region based on the amount of 
-electricity used. 
+electricity used. We will aim to use the Time Series Model.
+
+We will be using the following time series data sets:
+- Electrical Consumption in the US.
+- GDP Growth in the US.
+- 
 Prediction can be based possibly on a quarterly basis, yearly basis
 
 The steps to create the model
@@ -17,7 +22,9 @@ The steps to create the model
 ## Challenges
 - messy csv file (NAN, notes, data not collected, missing years for comparison) 
 - multiIndex (new concept)
-- 
+
+
+
 ## Results
 
 ## Summary
